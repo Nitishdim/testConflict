@@ -15,6 +15,7 @@ public class TestConflictApplication {
                 char d='n';
                 String n="dimpal";
 		String d="nitish";
+		char k='f';
 		SpringApplication.run(TestConflictApplication.class, args);
 	}
 
