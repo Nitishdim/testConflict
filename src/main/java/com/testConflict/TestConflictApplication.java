@@ -11,6 +11,7 @@ public class TestConflictApplication {
 		char ch='x';
 		String s= "nitish";
 		boolean b=true;
+		int f=989;
                 char d='n';
                 String n="dimpal";
 		String d="nitish";
