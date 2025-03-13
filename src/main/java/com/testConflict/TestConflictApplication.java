@@ -16,6 +16,7 @@ public class TestConflictApplication {
                 String n="dimpal";
 		String d="nitish";
 		char k='f';
+		boolean myLove=true;
 		SpringApplication.run(TestConflictApplication.class, args);
 	}
 
