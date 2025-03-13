@@ -13,6 +13,7 @@ public class TestConflictApplication {
 		boolean b=true;
                 char d='n';
                 String n="dimpal";
+		String d="nitish";
 		SpringApplication.run(TestConflictApplication.class, args);
 	}
 
