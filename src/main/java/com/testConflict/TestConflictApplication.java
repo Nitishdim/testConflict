@@ -11,6 +11,7 @@ public class TestConflictApplication {
 		char ch='x';
 		String s= "nitish";
 		boolean b=true;
+                String n="dimpal";
 		SpringApplication.run(TestConflictApplication.class, args);
 	}
 
