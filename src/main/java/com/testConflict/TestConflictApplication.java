@@ -20,7 +20,7 @@ public class TestConflictApplication {
 		char k='f';  
                 boolean myLove=true;
                 String p="priti";
-		char at='p';
+		char at='L';
 		SpringApplication.run(TestConflictApplication.class, args);
 	}
 
