@@ -12,14 +12,15 @@ public class TestConflictApplication {
 		String s= "nitish";
 		boolean b=true;
 		int f=989;
-    char d='n';
-    String n="dimpal";
+                char d='n';
+                String n="dimpal";
 		String d="nitish";
 		char k='f';
 		int num=143;
 		char k='f';  
-    boolean myLove=true;
-    String p="priti";
+                boolean myLove=true;
+                String p="priti";
+		boolean ishate="false";
 		SpringApplication.run(TestConflictApplication.class, args);
 	}
 
